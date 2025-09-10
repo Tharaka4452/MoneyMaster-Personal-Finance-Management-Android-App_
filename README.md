@@ -64,15 +64,6 @@ A comprehensive personal finance management Android application built with Kotli
 - **Architecture**: Activity-based with Fragments
 - **Build System**: Gradle
 
-## 📱 Screenshots
-
-### Main Features
-- **Dashboard** - Overview of your financial status
-- **Transaction List** - All your income and expenses
-- **Statistics** - Visual charts and analytics
-- **Budget Management** - Monthly budget tracking
-- **Settings** - Currency and data management
-
 ## 🚀 Getting Started
 
 ### Prerequisites
