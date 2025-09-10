@@ -220,29 +220,6 @@ We welcome contributions! Please feel free to submit a Pull Request. For major c
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-
-## 🙏 Acknowledgments
-
-- [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) for beautiful chart visualizations
-- [Material Design Components](https://material.io/components) for UI components
-- Android community for inspiration and support
-
-## 📞 Support
-
-If you have any questions or need help, please:
-- Open an issue on GitHub
-- Contact us at support@moneymaster.com
-- Check our [FAQ](docs/FAQ.md)
-
 ---
 
 **Made with ❤️ for better financial management**
