@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Main Brand Colors -->
+    <color name="primary">#5E35B1</color>
+    <color name="primary_variant">#3700B3</color>
+    <color name="secondary">#03DAC5</color>
+    <color name="secondary_variant">#018786</color>
+    
+    <!-- Updated Purple Palette -->
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    
+    <!-- Updated App Colors -->
+    <color name="teal_200">#80DEEA</color>
+    <color name="teal_700">#0097A7</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="light_gray">#EEEEEE</color>
+    <color name="dark_gray">#616161</color>
+    
+    <!-- Dark Theme Colors -->
+    <color name="dark_blue">#009688</color>
+    <color name="dark_blue2">#283593</color>
+    <color name="dark_blue3">#009688</color>
+    <color name="dark_surface">#121212</color>
+    
+    <!-- Semantic Colors -->
+    <color name="red">#F44336</color>
+    <color name="green">#4CAF50</color>
+    <color name="amber">#FFC107</color>
+    <color name="blue">#2196F3</color>
+    
+    <!-- Transaction Type Colors -->
+    <color name="income_green">#66BB6A</color>
+    <color name="expense_red">#EF5350</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_on_dark">#FFFFFF</color>
+    <color name="text_hint">#BDBDBD</color>
+</resources>
